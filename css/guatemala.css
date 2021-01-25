@@ -1,0 +1,165 @@
+*{
+    margin: 0; 
+    padding: 0; 
+}
+body{
+    font-family: Segoe UI Light;
+}
+nav{
+    background-color: #2175bc;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+ul{
+    margin-left: 35%;
+    margin-top: 25px;
+}
+li{
+    display: inline;
+}
+ul li a{
+    text-align: right;
+    text-emphasis: none;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    margin-top: 0.6%; 
+    font-size: 110%;
+}
+header{
+    text-align: center;
+    font-family: Heaters;
+    font-size: 700%;
+    margin-top: 5%;
+    margin-bottom: 20px;
+}
+a:hover{
+    color:black;
+    transition: all .5s;
+}
+
+.parrafo{
+    padding: 7%;
+    padding-top: 15px;  
+    float: left;
+    width: 30%;
+    margin-left: 6%;
+    margin-top: 30px;
+    font-size: 110%;
+    text-align: justify;
+}
+#image{
+    width: 40%;
+    padding-left: 55px;
+    margin-top: 2%;
+}
+#materiasI{
+    text-align: center;
+}
+.MI{
+    margin-top: 15%;
+    margin-bottom: 7%;
+    text-align: center;
+    font-size: 150%;
+}
+.p1,.p2,.p3,.p4,.p5{
+    width: 300px;
+    height: 300px;
+    border-radius: 80px;
+    margin-left: 12%;
+    margin-bottom: 20px;
+}
+.p1, .p4{
+    margin-left: 15%;
+}
+.p4{
+    margin-top: 2%;
+    margin-left: 30%;
+}
+.p5{
+    margin-top: 2%;
+}
+.pp1,.pp2,.pp3,.pp4,.pp5,.pp6{
+    margin-left: 18%;
+    padding-left: 20px; 
+    padding-right: 15px;
+    padding-bottom: 20px;
+    font-size: 120%;
+}
+.pp2{
+    margin-left: 19%;
+}
+.pp3{
+    margin-left: 20%;
+}
+.pp4{
+    margin-left: 34%;
+}
+.pp5{
+    margin-left: 20%;
+}
+.MI2{
+    margin-top: 10%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-size: 150%;
+}
+.d1,.d2,.d3,.d4,.d5,.d6,.d7,.d8,.d9,.d10,.d11,.d12,.d13,.d14{
+    text-align:center;
+    font-size: 120%;
+
+}
+.d1{
+    margin-left: 7%;
+}
+.d2{
+    margin-left: 15%;
+}
+.d3{
+    margin-left: 15%;
+}
+.d4{
+    margin-left: 15%;
+}
+.d5{
+    margin-left: 15%;
+}
+.d6{
+    margin-left: 7%;
+    margin-top: 5%;
+}
+.d7{
+    margin-left: 23%;
+}
+.d8{
+    margin-left: 23%;
+}
+.d9{
+    margin-left: 23%;
+}
+.d10{
+    margin-left: 23%;
+}
+.d11{
+    margin-left: 23%;
+}
+.d12{
+    margin-left: 23%;
+}
+.d13{
+    margin-left: 23%;
+}
+.d14{
+    margin-left: 23%;
+}
+.par1{
+    text-align: center;
+    font-size: 200%;
+}
+footer{
+    text-align: center;
+    background-color:  #2175bc;
+    color: white; 
+    padding: 2%;
+    margin-top: 5%;
+}

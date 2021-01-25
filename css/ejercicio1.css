@@ -1,0 +1,115 @@
+*{
+    margin: 0; 
+    padding: 0; 
+}
+body{
+    font-family: Segoe UI Light;
+}
+nav{
+    background-color: #2175bc;
+    padding-top: 15px;
+    padding-bottom: 90px;
+}
+ul{
+    margin-left: 16%;
+}
+li{
+    display: inline;
+}
+ul li a{
+    text-align: right;
+    text-emphasis: none;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    margin-top: 0.6%; 
+}
+#separacionMenu{
+    margin-left: 60%;
+}
+.logo{
+    width: 10%;
+    margin-left: 5%;
+}
+.logo, li a{
+    float: left;
+}
+a:hover{
+    color:  #252525;
+    transition: all .5s;
+}
+#titulo{
+    text-align: center; 
+    padding: 50px;
+}
+#Data{
+    padding: 7%;
+    padding-top: 25px;  
+    float: left;
+    width: 30%;
+    margin-left: 10%;
+}
+.DP{
+    padding-left: 90px;
+    padding-bottom: 15px;
+    font-size: 300%;
+}
+.DatosP{
+    font-size: 150%;
+    padding: 10px;
+    padding-left: 15px;
+}
+#image{
+    width: 20%;
+    padding-left: 55px; 
+}
+#materiasI{
+    text-align: center;
+}
+.MI{
+    margin-top: 5%;
+    margin-bottom: 7%;
+    text-align: center;
+}
+.LME, .DC, .REC{
+    margin-left: 17%;
+    padding-left: 35px; 
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+.materiaLME, .materiaDC, .materiaREC{
+    margin-left: 15%;
+    padding-left: 20px; 
+    padding-right: 15px;
+}
+.materiaDC{
+    margin-left: 14%;
+}
+.materiaREC{
+    margin-left: 16%;
+}
+.AV, .CD, .PROGRA{
+    margin-left: 17%;
+    padding-left: 35px; 
+    padding-right: 20px;
+    padding-bottom: 40px;
+    margin-top: 10%;
+}
+.materiaAV, .materiaCD, .materiaPROGRA{
+    margin-left: 18%;
+    padding-left: 20px; 
+    padding-right: 15px;
+}
+.materiaCD{
+    margin-left: 19%;
+}
+.materiaPROGRA{
+    margin-left: 19%;
+}
+footer{
+    text-align: center;
+    background-color:  #2175bc;
+    color: white; 
+    padding: 2%;
+    margin-top: 5%;
+}
